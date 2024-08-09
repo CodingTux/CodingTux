@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on AI Blockchain and Humanoid Robotics data solutions
+- 🌱 I’m currently learning large storage optimization
+- 👯 I’m looking to collaborate on databases and backends
+- 💬 Ask me about databases, machine learning and blockchains
+- 📫 How to reach me: abhishek.vishwakarma9@gmail.com or https://x.com/codingtux
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
