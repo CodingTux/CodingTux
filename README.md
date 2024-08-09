@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on databases and backends
 - 💬 Ask me about databases, machine learning and blockchains
 - 📫 How to reach me: abhishek.vishwakarma9@gmail.com or https://x.com/codingtux
-
-![](https://hit.yhype.me/github/profile?user_id=24764192)
