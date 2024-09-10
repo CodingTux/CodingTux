@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning large storage optimization
 - 👯 I’m looking to collaborate on databases and backends
 - 💬 Ask me about databases, machine learning and blockchains
-- 📫 How to reach me: abhishek.vishwakarma9@gmail.com or https://x.com/codingtux
+- 📫 How to reach me: abhishek.vishwakarma9@gmail.com, https://x.com/codingtux or https://cnvt.me/abhi
