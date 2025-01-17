@@ -14,8 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on AI Blockchain and Data solutions for AI Labs
-- 🌱 I’m currently learning large storage optimization
-- 👯 I’m looking to collaborate on databases and backends
-- 💬 Ask me about databases, machine learning and blockchains
-- 📫 How to reach me: abhishek.vishwakarma9@gmail.com, https://x.com/codingtux or https://cnvt.me/abhi
+- 🔭 I’m currently working on
+     - Crypto X AI - architect of https://neroboss.ai
+     - AGI is the Goal - multiple super specialized agents to solve real world problem
+     - Founding Eng and Head of Engineering - https://martianwallet.xyz
+          - largest crypto wallet of MOVE ecosystem with over 3 million+ installs
+- 🗺️ I'm currently also exploring and finding solutions
+     - incentivize and collect quality data via blockchain for AI labs
+     - learning large storage optimization
+- 👯 I’m looking to collaborate on
+     - databases and backends
+     - crypto x ai
+     - defai
+     - agi
+- 💬 Ask me about
+     - llm and ai
+     - databases
+     - machine learning
+     - blockchains
+- 📫 How to reach me:
+     - abhishek.vishwakarma9@gmail.com
+     - https://x.com/codingtux
+     - https://cnvt.me/abhi
