@@ -19,7 +19,7 @@ Here are some ideas to get you started:
      - AGI is the Goal - multiple super specialized agents to solve real world problem
      - Founding Eng and Head of Engineering - https://martianwallet.xyz
           - largest crypto wallet of MOVE ecosystem with over 3 million+ installs
-     - Owner of $TRUMP and $NEROBOSS
+     - Holds of $SOL, $TRUMP and $NEROBOSS
 - 🗺️ I'm currently also exploring and finding solutions
      - incentivize and collect quality data via blockchain for AI labs
      - learning large storage optimization
