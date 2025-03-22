@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on
+     - Stealth Startup (AI)
+- 🕥 Worked on
      - Crypto X AI - architect of https://neroboss.ai
      - AGI is the Goal - multiple super specialized agents to solve real world problem
      - Founding Eng and Head of Engineering - https://martianwallet.xyz
