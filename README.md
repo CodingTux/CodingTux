@@ -1,41 +1,56 @@
-### Hi there 👋
+<!-- CodingTux GitHub Profile README -->
 
-<!--
-**CodingTux/CodingTux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm CodingTux 👋</h1>
+<p align="center">
+  <b>Engineer • Architect • Blockchain & AI Enthusiast</b>  
+</p>
+<p align="center">
+  <a href="mailto:abhishek.vishwakarma9@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/codingtux"><img src="https://img.shields.io/badge/X-codingtux-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://cnvt.me/abhi"><img src="https://img.shields.io/badge/Portfolio-cnvt.me/abhi-0e76a8?style=flat-square&logo=about-dot-me&logoColor=white" alt="Portfolio"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on
-     - ArcadeZone (https://arcadezone.fun)
-     - FlirtFluent (https://flirtfluent.com)
-- 🕥 Worked on
-     - Crypto X AI - architect of https://neroboss.ai
-     - AGI is the Goal - multiple super specialized agents to solve real world problem
-     - Founding Eng and Head of Engineering - https://martianwallet.xyz
-          - largest crypto wallet of MOVE ecosystem with over 3 million+ installs
-- 🗺️ I'm currently also exploring and finding solutions
-     - incentivize and collect quality data via blockchain for AI labs
-     - learning large storage optimization
-- 👯 I’m looking to collaborate on
-     - databases and backends
-     - crypto x ai
-     - defai
-     - agi
-- 💬 Ask me about
-     - llm and ai
-     - databases
-     - machine learning
-     - blockchains
-- 📫 How to reach me:
-     - abhishek.vishwakarma9@gmail.com
-     - https://x.com/codingtux
-     - https://cnvt.me/abhi
+## 🚀 What I'm Working On
+
+- 🎮 **[ArcadeZone](https://arcadezone.fun)** – Web3 arcade platform
+- 💬 **[FlirtFluent](https://flirtfluent.com)** – Social AI for dating & conversation
+
+## 🏆 Past Highlights
+
+- 🧠 **Crypto X AI** – Architect at [Neroboss.ai](https://neroboss.ai)
+- 🤖 **AGI is the Goal** – Building super-specialized agents for real-world problem solving
+- 🚀 **Founding Engineer & Head of Engineering** at [Martian](https://martianwallet.xyz)
+  - Largest crypto wallet in the MOVE ecosystem
+  - 3M+ installs and counting!
+
+## 🌍 What I'm Exploring
+
+- Incentivizing & collecting high-quality data for AI labs using blockchain
+- Large-scale storage optimization for AI
+
+## 🤝 Open to Collaborations
+
+- Databases & backends (scalable, robust, and cutting-edge)
+- Crypto × AI
+- DeFi, AGI, and innovative web3 solutions
+
+## 💡 Ask Me About
+
+- Large Language Models (LLMs) & AI
+- Machine learning
+- Databases
+- Blockchains
+
+## 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-abhishek.vishwakarma9@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek.vishwakarma9@gmail.com)
+[![X](https://img.shields.io/badge/X-@codingtux-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/codingtux)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cnvt.me/abhi-0e76a8?style=flat-square&logo=about-dot-me&logoColor=white)](https://cnvt.me/abhi)
+
+---
+
+<p align="center">
+  <i>Let’s build the future of AI, blockchain, and web3 together!</i>
+</p>
