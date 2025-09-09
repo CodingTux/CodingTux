@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm CodingTux 👋</h1>
 <p align="center">
-  <b>Engineer • Architect • Blockchain & AI Enthusiast</b>  
+  <b>Engineer • Architect • Blockchain, Web3 & AI</b>  
 </p>
 <p align="center">
   <a href="mailto:abhishek.vishwakarma9@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -50,7 +50,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-cnvt.me/abhi-0e76a8?style=flat-square&logo=about-dot-me&logoColor=white)](https://cnvt.me/abhi)
 
 ---
-
-<p align="center">
-  <i>Let’s build the future of AI, blockchain, and web3 together!</i>
-</p>
