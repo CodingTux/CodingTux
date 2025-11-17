@@ -12,11 +12,6 @@
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🎮 **[ArcadeZone](https://arcadezone.fun)** – Web3 arcade platform
-- 💬 **[FlirtFluent](https://flirtfluent.com)** – Social AI for dating & conversation
-
 ## 🏆 Past Highlights
 
 - 🧠 **Crypto X AI** – Architect at [Neroboss.ai](https://neroboss.ai)
